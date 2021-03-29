@@ -65,3 +65,8 @@ $ npm install
 $ npx react-native run-android
 
 ```
+
+> Caso necessite linkar os icones do React Native Vector Icons
+```bash
+$ npx react-native link react-native-vector-icons
+```
