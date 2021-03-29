@@ -70,3 +70,8 @@ $ npx react-native run-android
 ```bash
 $ npx react-native link react-native-vector-icons
 ```
+
+## Referências
+
+- [COD3R Cursos](https://www.cod3r.com.br/collections?category=cursos-gratuitos)
+- [React Native com Hooks e Context API - Cadastro Completo!](https://www.udemy.com/course/react-native-com-hooks-e-context-api-cadastro-completo/)
