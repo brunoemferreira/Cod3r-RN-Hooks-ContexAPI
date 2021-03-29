@@ -12,14 +12,14 @@
 <!-- ************************************  Badges  ********************************************  -->
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/Markdown_Library?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/Cod3r-RN-Hooks-ContexAPI?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Bruno Eduardo" src="https://img.shields.io/badge/made%20by-Bruno Eduardo-%2304D361">
   </a>
 
-  <img src="https://img.shields.io/github/repo-size/brunoemferreira/Markdown_Library" alt="badge"/>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/Markdown_Library">
+  <img src="https://img.shields.io/github/repo-size/brunoemferreira/Cod3r-RN-Hooks-ContexAPI" alt="badge"/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/Cod3r-RN-Hooks-ContexAPI">
 
 </p>
 
