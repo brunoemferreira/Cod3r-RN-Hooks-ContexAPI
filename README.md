@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./assets/logo.jpg">
+   <img src="./Assets/logo.jpg">
 </div>
 
 <!-- ******************************* Título do Projeto ****************************************  -->
@@ -41,10 +41,10 @@ App de Cadastro de Usuário ( CRUD ) utilizando Context API.
 
 <h2 id="imagens"> 🖼️ Imagens Projeto </h2>
 <div align="center">
-   <img src="./assets/tela1.png" width="400px">
-   <img src="./assets/tela2.png" width="400px">
-   <img src="./assets/tela3.png" width="400px">
-   <img src="./assets/tela4.png" width="400px">
+   <img src="./Assets/tela1.png" width="350px">
+   <img src="./Assets/tela2.png" width="350px">
+   <img src="./Assets/tela3.png" width="350px">
+   <img src="./Assets/tela4.png" width="350px">
 </div>
 <h2 id="tecnologias"> 🧰 Tecnologias e Bibliotecas </h2>
 
